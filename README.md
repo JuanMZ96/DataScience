@@ -1,7 +1,7 @@
 
 **# DataScience**
 
-_Integrantes_ holaa
+_Integrantes_ 
 
 
 | Id | Apellido | Nombre |
