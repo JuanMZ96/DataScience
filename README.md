@@ -6,9 +6,8 @@ _Integrantes_
 
 | Id | Apellido | Nombre |
 |------------- | ------------- | ------------- |
-| 01 | Lopez| Enrico |
-| 02 | Martinez | Juan |
-| 03 | Sidoni | Octavio |
+| 01 | Martinez | Juan |
+
 <details>
 <summary><h3>Primera entrega 07/02</summary>
 <p>
